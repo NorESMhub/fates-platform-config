@@ -1,0 +1,1 @@
+# fates-platform-config
